@@ -1,10 +1,13 @@
-# Hi, I'm Shreya 👋
+# Hi, I'm Shreya 👋  
 
-Aspiring Software Engineer dedicated to building a strong foundation in software development.  
-Currently focused on mastering Data Structures & Algorithms and C++, while continuously exploring new technologies and coding challenges to become job-ready.
+💻 Aspiring Software Engineer | 🚀 Passionate about Learning & Building  
 
-- 🔭 Actively improving problem-solving and coding skills  
-- 💻 Working on practical projects and algorithms  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shreya-ontrack)
+On a journey to become a software engineer — solving problems, creating projects, and growing with every step.  
 
-Feel free to explore my repositories and follow my learning journey!
+### 🌐 Connect with me  
+- [LinkedIn](www.linkedin.com/in/shreya-ontrack)  
+- [X (Twitter)](https://x.com/shrya_on)   
+
+---
+
+✨ Building code, solving problems, shaping the future.  
