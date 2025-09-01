@@ -8,6 +8,4 @@ On a journey to become a software engineer — solving problems, creating projec
 - [LinkedIn](www.linkedin.com/in/shreya-ontrack)  
 - [X (Twitter)](https://x.com/shrya_on)   
 
----
-
 ✨ Building code, solving problems, shaping the future.  
